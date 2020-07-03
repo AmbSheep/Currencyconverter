@@ -1,1 +1,3 @@
-Currencyconverter that I would like to work.
+Works from console: python3 Currconv.py "Convert from" "Convert to" "Amount"
+Example: python3 Currconv.py RUB USD 500
+Output:6.996171550000001
